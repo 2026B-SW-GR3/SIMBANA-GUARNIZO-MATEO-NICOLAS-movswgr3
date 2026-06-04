@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Taller3KotlinMultiplatform</string>
+    <string name="mensaje">Hello World!</string>
+</resources>
